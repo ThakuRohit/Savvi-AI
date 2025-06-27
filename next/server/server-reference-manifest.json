@@ -1,0 +1,28 @@
+{
+  "node": {
+    "40ee1eb31aaa8510c77960cf9fd0d2cb2b6130757c": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fuser%2Fstudio%2Fsrc%2Fai%2Fflows%2Fsuggest-better-products.ts%22%2C%5B%7B%22id%22%3A%2240ee1eb31aaa8510c77960cf9fd0d2cb2b6130757c%22%2C%22exportedName%22%3A%22suggestBetterProducts%22%7D%5D%5D%2C%5B%22%2Fhome%2Fuser%2Fstudio%2Fsrc%2Fservices%2Fproduct-api.ts%22%2C%5B%7B%22id%22%3A%2260a6ef125aabbcdbfd1a1ee7c7b4bdbc0ffb9993c8%22%2C%22exportedName%22%3A%22searchProducts%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "60a6ef125aabbcdbfd1a1ee7c7b4bdbc0ffb9993c8": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fuser%2Fstudio%2Fsrc%2Fai%2Fflows%2Fsuggest-better-products.ts%22%2C%5B%7B%22id%22%3A%2240ee1eb31aaa8510c77960cf9fd0d2cb2b6130757c%22%2C%22exportedName%22%3A%22suggestBetterProducts%22%7D%5D%5D%2C%5B%22%2Fhome%2Fuser%2Fstudio%2Fsrc%2Fservices%2Fproduct-api.ts%22%2C%5B%7B%22id%22%3A%2260a6ef125aabbcdbfd1a1ee7c7b4bdbc0ffb9993c8%22%2C%22exportedName%22%3A%22searchProducts%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "AK37QmJKh9lEWvw8CdK2lRrhozGO01bpJo8X/YV9Ri0="
+}
